@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "general": {
+    "serverName": "Rishi Fivem"
+  },
+  "server": {
+    "dataPath": "F:/FiveM/txData/QBCore_BD3BD3.base/"
+  }
+}

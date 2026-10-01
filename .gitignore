@@ -1,0 +1,14 @@
+# Installed FiveM server runtime and generated artifacts
+/Artifacts/
+
+# Server runtime state and private data
+txData/**/cache/
+txData/**/logs/
+txData/**/data/
+txData/**/*.cfg
+txData/**/*.cfg.*
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
